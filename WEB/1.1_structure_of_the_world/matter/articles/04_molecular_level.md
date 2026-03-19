@@ -1,4 +1,4 @@
-# Молекулярный уровень
+# Молекулярный [уровень](../../../8.1_entertainment/articles/gamification.md)
 
 ![Модель молекулы воды](/WEB/1.1_structure_of_the_world/matter/images/H2O_2D_labelled.svg.png)
 
@@ -17,7 +17,7 @@
 
 ---
 
-## Химическая связь
+## Химическая [связь](../../../2.1_society/cause_and_effect_relationships/articles/causality_base.md)
 
 **Химическая связь** — это взаимодействие [атомов](03_atom_structure.md), обусловленное перекрыванием электронных облаков связывающихся частиц. [Природа](../../../2.1_society/rights_and_responsibilities/articles/duty_nature.md) химической связи — [электромагнитная](14_fundamental_interactions.md): она возникает благодаря взаимодействию между [электронами](03_atom_structure.md) и [ядрами](03_atom_structure.md).
 
@@ -89,7 +89,7 @@
 
 ## Формирование сложных [веществ](01_matter.md)
 
-Из [атомов](01_matter.md) формируются [вещества](01_matter.md) различной степени сложности:
+Из [атомов](01_matter.md) формируются [вещества](01_matter.md) различной [степени](../../../3.1_healthy_lifestyle/pervaya_pomoshch/ushibi_porezy_ozhogi/13_ozhogi_vidy_stepeni.md) сложности:
 
 ```
 Атомы → Молекулы → Надмолекулярные структуры → Макроскопическое вещество
@@ -113,7 +113,7 @@
 
 ## Молекулярная геометрия
 
-Форма [молекул](01_matter.md) определяется расположением электронных пар вокруг центрального [атома](01_matter.md) (теория VSEPR):
+Форма [молекул](01_matter.md) определяется расположением электронных пар вокруг центрального [атома](01_matter.md) ([теория](../../../1.2_natural_sciences/why_science_help_understand_world/science.md) VSEPR):
 
 | Число электронных пар | Геометрия | Пример |
 |------------------------|-----------|--------|
@@ -132,4 +132,4 @@
 - [Физические свойства](11_physical_properties.md)
 - [Фазовые переходы](09_phase_transitions.md)
 
-*Автор: Маркин Роман • Сгенерировано с [помощью](../../../2.1_society/rights_and_responsibilities/articles/police.md) Gemini • Слов: 470 • 2026-03-16*
+*[Автор](../../../5.1_technology_and_digital_literacy/information and media literacy/авторское_право_и_честное_использование.md): Маркин Роман • Сгенерировано с [помощью](../../../2.1_society/rights_and_responsibilities/articles/police.md) Gemini • Слов: 470 • 2026-03-16*
