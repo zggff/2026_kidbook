@@ -21,11 +21,11 @@
 
 ## Стандартная модель
 
-**Стандартная модель** — теория, описывающая все известные [элементарные частицы](01_matter.md) и три из четырёх [фундаментальных взаимодействий](14_fundamental_interactions.md) (электромагнитное, сильное и слабое; [гравитация](14_fundamental_interactions.md) пока не включена).
+**Стандартная модель** — [теория](../../../1.2_natural_sciences/why_science_help_understand_world/science.md), описывающая все известные [элементарные частицы](01_matter.md) и три из четырёх [фундаментальных взаимодействий](14_fundamental_interactions.md) (электромагнитное, сильное и слабое; [гравитация](14_fundamental_interactions.md) пока не включена).
 
 Частицы делятся на два [класса](../../../2.1_society/rights_and_responsibilities/articles/school.md):
 
-| [Класс](../../../2.1_society/rights_and_responsibilities/articles/school.md) | Спин | Статистика | Роль |
+| [Класс](../../../2.1_society/rights_and_responsibilities/articles/school.md) | Спин | [Статистика](../../../5.1_technology_and_digital_literacy/information and media literacy/проверка_цитат_и_статистики.md) | Роль |
 |-------|------|------------|------|
 | **Фермионы** | 1/2 | Ферми-Дирака | Составляют [вещество](01_matter.md) |
 | **Бозоны** | 0 или 1 | Бозе-[Эйнштейна](15_conservation_law.md) | Переносят взаимодействия |
@@ -152,4 +152,4 @@
 - [Тёмная материя](17_dark_matter.md)
 - [Масса-энергия](18_mass_energy.md)
 
-*Автор: Червоненко Павел • Сгенерировано с [помощью](../../../2.1_society/rights_and_responsibilities/articles/police.md) Gemini • Слов: 540 • 2026-03-17*
+*[Автор](../../../5.1_technology_and_digital_literacy/information and media literacy/авторское_право_и_честное_использование.md): Червоненко Павел • Сгенерировано с [помощью](../../../2.1_society/rights_and_responsibilities/articles/police.md) Gemini • Слов: 540 • 2026-03-17*

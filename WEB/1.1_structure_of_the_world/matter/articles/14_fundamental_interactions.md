@@ -1,6 +1,6 @@
 # [Фундаментальные взаимодействия](01_matter.md)
 
-**[Фундаментальные взаимодействия](01_matter.md)** — четыре типа базовых сил [природы](../../../2.1_society/rights_and_responsibilities/articles/duty_nature.md), которые управляют всеми процессами во Вселенной. Все наблюдаемые явления — от движения галактик до [химических реакций](12_chemical_properties.md) и ядерного распада — обусловлены этими четырьмя взаимодействиями. Они определяют [строение атома](03_atom_structure.md), формирование [молекул](04_molecular_level.md) и поведение [материи](01_matter.md) на всех масштабах.
+**[Фундаментальные взаимодействия](01_matter.md)** — четыре типа базовых сил [природы](../../../2.1_society/rights_and_responsibilities/articles/duty_nature.md), которые управляют всеми процессами во Вселенной. Все наблюдаемые явления — от движения галактик до [химических реакций](12_chemical_properties.md) и ядерного распада — обусловлены этими четырьмя взаимодействиями. Они определяют [строение атома](03_atom_structure.md), формирование [молекул](04_molecular_level.md) и [поведение](../../../7.2_leisure/useful_and_interesting_leisure/articles/safety_during_recreation.md) [материи](01_matter.md) на всех масштабах.
 
 ## Содержание
 
@@ -16,7 +16,7 @@
 
 ## Обзор четырёх взаимодействий
 
-| Взаимодействие | Относительная интенсивность | Радиус действия | Переносчик | На что действует |
+| Взаимодействие | Относительная интенсивность | Радиус [действия](../../../3.1_healthy_lifestyle/pervaya_pomoshch/ushibi_porezy_ozhogi/03_obschie_pravila_algorithm.md) | Переносчик | На что действует |
 |---------------|---------------------------|-----------------|------------|------------------|
 | **Сильное** | 1 | ~10⁻¹⁵ м | [Глюон](13_elementary_particles.md) | [Кварки](13_elementary_particles.md) |
 | **Электромагнитное** | 10⁻² | ∞ | [Фотон](13_elementary_particles.md) | Заряженные частицы |
@@ -33,15 +33,15 @@
 
 где G = 6,674 × 10⁻¹¹ Н·м²/кг² — гравитационная постоянная.
 
-### Общая теория относительности ([Эйнштейн](15_conservation_law.md), 1915)
+### Общая [теория](../../../1.2_natural_sciences/why_science_help_understand_world/science.md) относительности ([Эйнштейн](15_conservation_law.md), 1915)
 
-Гравитация — не сила, а искривление пространства-времени [массой](01_matter.md) и [энергией](01_matter.md). Уравнения поля [Эйнштейна](15_conservation_law.md):
+Гравитация — не [сила](../../../1.2_natural_sciences/why_science_help_understand_world/physical_science.md), а искривление пространства-времени [массой](01_matter.md) и [энергией](01_matter.md). Уравнения поля [Эйнштейна](15_conservation_law.md):
 
 > Gμν = (8πG/c⁴) Tμν
 
 ### Роль гравитации
 
-- Удерживает планеты на орбитах
+- Удерживает [планеты](../../../1.2_natural_sciences/why_science_help_understand_world/space_sciences.md) на орбитах
 - Формирует [звёзды](08_plasma.md), галактики и крупномасштабную структуру Вселенной
 - Определяет распределение [тёмной материи](17_dark_matter.md)
 - Вызывает [фазовые переходы](09_phase_transitions.md) в [ядрах](03_atom_structure.md) [звёзд](08_plasma.md) (коллапс)
@@ -66,8 +66,8 @@
 |---------|---------|
 | Субатомный | [Электронные оболочки](03_atom_structure.md) [атомов](01_matter.md) |
 | Молекулярный | [Химические связи](04_molecular_level.md) |
-| Макроскопический | [Электропроводность](11_physical_properties.md), магнетизм, свет |
-| Технологический | Электроника, связь, лазеры |
+| Макроскопический | [Электропроводность](11_physical_properties.md), [магнетизм](../../../1.2_natural_sciences/why_science_help_understand_world/physics.md), [свет](../../../1.2_natural_sciences/why_science_help_understand_world/physics.md) |
+| Технологический | Электроника, [связь](../../../2.1_society/cause_and_effect_relationships/articles/causality_base.md), лазеры |
 
 Электромагнетизм отвечает за:
 - Все [химические свойства](12_chemical_properties.md) [вещества](01_matter.md)
@@ -156,4 +156,4 @@
 - [Антиматерия](16_antimatter.md)
 - [Тёмная материя](17_dark_matter.md)
 
-*Автор: Червоненко Павел • Сгенерировано с [помощью](../../../2.1_society/rights_and_responsibilities/articles/police.md) Claude • Слов: 560 • 2026-03-17*
+*[Автор](../../../5.1_technology_and_digital_literacy/information and media literacy/авторское_право_и_честное_использование.md): Червоненко Павел • Сгенерировано с [помощью](../../../2.1_society/rights_and_responsibilities/articles/police.md) Claude • Слов: 560 • 2026-03-17*

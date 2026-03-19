@@ -16,9 +16,9 @@
 
 ## Химические реакции
 
-**Химическая реакция** — процесс превращения одних [веществ](01_matter.md) (реагентов) в другие (продукты), сопровождающийся разрывом одних [химических связей](04_molecular_level.md) и [образованием](../../../2.1_society/rights_and_responsibilities/articles/education_right.md) новых.
+**Химическая [реакция](../../../1.2_natural_sciences/why_science_help_understand_world/chemistry.md)** — процесс превращения одних [веществ](01_matter.md) (реагентов) в другие ([продукты](../../../3.1. healthy lifestyle/Sleep, nutrition, and adolescent energy/articles/healthy_school_snacks.md)), сопровождающийся разрывом одних [химических связей](04_molecular_level.md) и [образованием](../../../2.1_society/rights_and_responsibilities/articles/education_right.md) новых.
 
-Признаки химических реакций:
+[Признаки](../../../3.1_healthy_lifestyle/pervaya_pomoshch/ushibi_porezy_ozhogi/04_ushib_chto_eto_priznaki.md) химических реакций:
 - Изменение цвета
 - Выделение или поглощение [газа](07_gases.md)
 - [Образование](../../../2.1_society/rights_and_responsibilities/articles/education_right.md) осадка
@@ -100,7 +100,7 @@
 
 где k — константа скорости, A — предэкспоненциальный множитель, Eₐ — [энергия](01_matter.md) активации.
 
-## Химическое равновесие
+## Химическое [равновесие](../../../7.2_leisure/useful_and_interesting_leisure/articles/balance_study_rest_hobby.md)
 
 В обратимых реакциях устанавливается **динамическое равновесие**, при котором скорости прямой и обратной реакций равны.
 
@@ -136,7 +136,7 @@
 
 Способность [атома](03_atom_structure.md) притягивать электронную [плотность](06_liquids.md) [связи](04_molecular_level.md). Определяет тип [химической связи](04_molecular_level.md) и реакционную способность.
 
-| Элемент | Электроотрицательность (шкала Полинга) |
+| [Элемент](../../../1.2_natural_sciences/why_science_help_understand_world/chemistry.md) | Электроотрицательность (шкала Полинга) |
 |---------|---------------------------------------|
 | F | 4,0 (максимальная) |
 | O | 3,5 |
@@ -157,4 +157,4 @@
 - [Закон сохранения массы и энергии](15_conservation_law.md)
 - [Масса-энергия](18_mass_energy.md)
 
-*Автор: Демидов Максим • Сгенерировано с [помощью](../../../2.1_society/rights_and_responsibilities/articles/police.md) Claude • Слов: 500 • 2026-03-17*
+*[Автор](../../../5.1_technology_and_digital_literacy/information and media literacy/авторское_право_и_честное_использование.md): Демидов Максим • Сгенерировано с [помощью](../../../2.1_society/rights_and_responsibilities/articles/police.md) Claude • Слов: 500 • 2026-03-17*

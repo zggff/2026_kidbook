@@ -23,7 +23,7 @@
 
 Сопровождаются **скачком** [плотности](11_physical_properties.md) и выделением (поглощением) скрытой теплоты. Примеры: [плавление](05_solids.md), кипение, сублимация.
 
-Характерные признаки:
+Характерные [признаки](../../../3.1_healthy_lifestyle/pervaya_pomoshch/ushibi_porezy_ozhogi/04_ushib_chto_eto_priznaki.md):
 - Наличие скрытой теплоты перехода
 - Сосуществование двух фаз при [температуре](07_gases.md) перехода
 - Скачок объёма и энтропии
@@ -89,7 +89,7 @@
 
 ### Уравнение Клапейрона-Клаузиуса
 
-Описывает зависимость [температуры](07_gases.md) фазового перехода от [давления](07_gases.md):
+Описывает [зависимость](../../../3.1. healthy lifestyle/Sleep, nutrition, and adolescent energy/articles/the_energy_trap.md) [температуры](07_gases.md) фазового перехода от [давления](07_gases.md):
 
 > dT/dp = T·ΔV / ΔH
 
@@ -101,7 +101,7 @@
 
 где F — число степеней [свободы](../../../2.1_society/rights_and_responsibilities/articles/person.md), C — число компонентов, P — число сосуществующих фаз. Для однокомпонентной системы (C = 1):
 
-- 1 фаза → 2 степени [свободы](../../../2.1_society/rights_and_responsibilities/articles/person.md) (можно менять T и p)
+- 1 фаза → 2 [степени](../../../3.1_healthy_lifestyle/pervaya_pomoshch/ushibi_porezy_ozhogi/13_ozhogi_vidy_stepeni.md) [свободы](../../../2.1_society/rights_and_responsibilities/articles/person.md) (можно менять T и p)
 - 2 фазы → 1 степень [свободы](../../../2.1_society/rights_and_responsibilities/articles/person.md) (линия на диаграмме)
 - 3 фазы → 0 степеней [свободы](../../../2.1_society/rights_and_responsibilities/articles/person.md) (**тройная точка**)
 
@@ -111,7 +111,7 @@
 
 ### Ключевые точки и линии
 
-| Элемент | Описание |
+| [Элемент](../../../1.2_natural_sciences/why_science_help_understand_world/chemistry.md) | Описание |
 |---------|----------|
 | Тройная точка | Единственные условия сосуществования всех трёх фаз |
 | Критическая точка | Конец кривой кипения; выше неё нет различия между [жидкостью](06_liquids.md) и [газом](07_gases.md) |
@@ -153,4 +153,4 @@
 - [Экзотические состояния](10_exotic_states.md)
 - [Физические свойства](11_physical_properties.md)
 
-*Автор: Ефременко Кирилл • Сгенерировано с [помощью](../../../2.1_society/rights_and_responsibilities/articles/police.md) Gemini • Слов: 500 • 2026-03-16*
+*[Автор](../../../5.1_technology_and_digital_literacy/information and media literacy/авторское_право_и_честное_использование.md): Ефременко Кирилл • Сгенерировано с [помощью](../../../2.1_society/rights_and_responsibilities/articles/police.md) Gemini • Слов: 500 • 2026-03-16*

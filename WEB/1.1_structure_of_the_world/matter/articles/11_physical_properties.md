@@ -24,7 +24,7 @@
 
 > F = m·a → m = F/a
 
-Инертная [масса](01_matter.md) показывает, насколько трудно изменить скорость тела.
+Инертная [масса](01_matter.md) показывает, насколько трудно изменить [скорость](../../../1.2_natural_sciences/why_science_help_understand_world/physics.md) тела.
 
 ### Гравитационная [масса](01_matter.md)
 
@@ -48,8 +48,8 @@
 
 | [Вещество](01_matter.md) | Состояние | [Плотность](06_liquids.md), кг/м³ |
 |----------|-----------|-------------------|
-| Межзвёздная среда | [Плазма](08_plasma.md) | ~10⁻²¹ |
-| Воздух (н.у.) | [Газ](07_gases.md) | 1,29 |
+| Межзвёздная [среда](../../../5.1_technology_and_digital_literacy/information and media literacy/как_устроена_современная_информационная_среда.md) | [Плазма](08_plasma.md) | ~10⁻²¹ |
+| [Воздух](../../../1.2_natural_sciences/why_science_help_understand_world/environmental_sciences.md) (н.у.) | [Газ](07_gases.md) | 1,29 |
 | Пробка | [Твёрдое](05_solids.md) | 120–240 |
 | [Вода](../../../2.1_society/rights_and_responsibilities/articles/duty_nature.md) | [Жидкость](06_liquids.md) | 1000 |
 | Железо | Твёрдое | 7874 |
@@ -116,7 +116,7 @@
 - **Полупроводники**: [электроны](03_atom_structure.md) и «дырки»
 - **[Плазма](08_plasma.md)**: свободные [электроны](03_atom_structure.md) и ионы
 
-### Зависимость от [температуры](07_gases.md)
+### [Зависимость](../../../3.1. healthy lifestyle/Sleep, nutrition, and adolescent energy/articles/the_energy_trap.md) от [температуры](07_gases.md)
 
 - Металлы: сопротивление **растёт** с [температурой](07_gases.md) (R ∝ T)
 - Полупроводники: сопротивление **уменьшается** с [температурой](07_gases.md)
@@ -127,7 +127,7 @@
 | Свойство | Описание | Единица СИ |
 |----------|----------|------------|
 | [Температура](07_gases.md) | Мера средней кинетической [энергии](01_matter.md) частиц | К (кельвин) |
-| [Давление](07_gases.md) | Сила на единицу площади | Па (паскаль) |
+| [Давление](07_gases.md) | [Сила](../../../1.2_natural_sciences/why_science_help_understand_world/physical_science.md) на единицу площади | Па (паскаль) |
 | Теплопроводность | Способность передавать теплоту | Вт/(м·К) |
 | Упругость | Способность восстанавливать форму | Па (модуль Юнга) |
 | [Вязкость](06_liquids.md) | Сопротивление течению ([жидкости](06_liquids.md)) | Па·с |
@@ -154,4 +154,4 @@
 - [Закон сохранения массы и энергии](15_conservation_law.md)
 - [Масса-энергия](18_mass_energy.md)
 
-*Автор: Демидов Максим • Сгенерировано с [помощью](../../../2.1_society/rights_and_responsibilities/articles/police.md) Gemini • Слов: 500 • 2026-03-17*
+*[Автор](../../../5.1_technology_and_digital_literacy/information and media literacy/авторское_право_и_честное_использование.md): Демидов Максим • Сгенерировано с [помощью](../../../2.1_society/rights_and_responsibilities/articles/police.md) Gemini • Слов: 500 • 2026-03-17*
