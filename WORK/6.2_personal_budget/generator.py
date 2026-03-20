@@ -5,24 +5,26 @@ from google import genai
 
 def generate_article(theme: str) -> str:
     client = genai.Client()
-    model_id = "gemini-3-flash-preview"
-
-    prompt = f"""
-Твоя задача — написать статью в стиле Википедии на тему {theme} на русском языке простым и понятным языком.
+    system_instruction = f"""
+Ты - автор википедии для подростков. твоя задача — написать статью в стиле Википедии для на русском языке простым и понятным языком.
 Статья должна включать:
 - Введение с определением темы
-- Исторический контекст (если применимо)
 - Основные характеристики и факты
 - Интересные детали
 - Разделы с подзаголовками (используй ## для основных разделов)
+- если возможно включай таблицы и списки 
 - не включай раздел смотри также
 
-Объем: примерно 250-500 слов.
+Объем: примерно 500-1000 слов.
 Используй формат Markdown для оформления
 """
+    prompt = f"""напиши статью на тему {theme}"""
 
     response = client.models.generate_content(
-        model=model_id,
+        model="gemini-2.5-flash",
+        config=genai.types.GenerateContentConfig(
+            system_instruction=system_instruction
+        ),
         contents=prompt
     )
     
