@@ -43,12 +43,44 @@ def format_article(article: str) -> str:
 """
 
 
+def describe_article(file: str) -> str:
+    client = genai.Client()
+    system_instruction = f"""
+Тебе дается статья википедии в формате markdown. Ты должен из нее извлечь краткое описание - 1 краткое предложение о чем статья, а также список ключевых терминов которые можно узнать прочитав статью - около 5 штук
+Результат необходимо вывести в формате JSON. Описание - строка "description", термины - массив строк "lemmas"
+"""
+    prompt = f"""{file}"""
+
+    response = client.models.generate_content(
+        model="gemini-2.5-flash",
+        config=genai.types.GenerateContentConfig(
+            system_instruction=system_instruction
+        ),
+        contents=prompt
+    )
+    
+    if response.text:
+        return response.text
+    else:
+        print("Error: Model returned an empty response.")
+        return None
+
+
 def main():
+    if len(sys.argv) == 2:
+        with open(sys.argv[1], "r", encoding="utf-8") as f:
+            text = f.read()
+            print("generating description and lemmas based on file")
+            output = describe_article(text)
+            print(output)
+            return
+
     if len(sys.argv) < 3:
         print("theme and output filename must be provided")
         return
     theme = sys.argv[1]
     output = sys.argv[2]
+    print(f"generating article with theme {theme}")
 
     article = generate_article(theme)
     article = format_article(article)
